@@ -1,4 +1,4 @@
-# game based on the story:- Realm of Eldoria
+# game based on the story:- Realm of Eldoria (Quest for the Crown of Destiny)
 # Define the game's story and choices
 story = {
     "start": {
