@@ -40,7 +40,7 @@ Week-02
      - Ending 1: Successfully retrieve the Crown and become a legendary hero.
      - Ending 2: Face challenges and puzzles, proving worthiness to claim the Crown.
      - Ending 3: Reflect on the journey and its impact on Eldoria.
---------------------------------------------------------------------------------------------------------------------------------------
+
 # How it works
 
 Players navigate through the story by making choices at each decision point, shaping their character's path and determining the ultimate outcome of the quest. The game is designed to be dynamic, engaging, and offer replay value with different choices leading to distinct endings.
