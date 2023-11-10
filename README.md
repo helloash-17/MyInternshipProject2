@@ -35,7 +35,7 @@ Week-02
      - Choice 1: Claim the Crown and restore peace to Eldoria.
      - Choice 2: Reflect on the journey and the impact of their choices.
 
-**Multiple Endings:**
+**7. Multiple Endings:**
    - The storyline provides multiple endings based on the player's choices and actions:
      - Ending 1: Successfully retrieve the Crown and become a legendary hero.
      - Ending 2: Face challenges and puzzles, proving worthiness to claim the Crown.
